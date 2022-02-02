@@ -9,3 +9,7 @@ git remote add origin https://github.com/Hosen-Rabby/instruction.git
 git push -u origin main
 
 ////
+
+git add .
+git commit -m"message about action"
+git push
